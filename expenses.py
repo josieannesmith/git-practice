@@ -1,1 +1,1 @@
-print("My Expense tracker")
+print("My AMAZING Expense tracker")
