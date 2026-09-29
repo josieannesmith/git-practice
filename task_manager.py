@@ -1,18 +1,3 @@
-'''=== TASK MANAGER ===
-
-1. Add task
-2. View tasks
-3. Complete task
-4. Delete task
-5. Quit
-
-Conditions	Decide what the user wants
-Loops	Keep the program running
-Exceptions	Handle bad input
-JSON/files	Save tasks so they don't disappear
-OOP	Organise tasks into classes
-Git	Track your project ''' 
-
 import json
 tasks = []
 json_tasks = []
